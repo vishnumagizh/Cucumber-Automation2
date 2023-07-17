@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="2" time="5.996">
+    <testcase classname="login functionality check" name="user login to application" time="5.089">
+        <system-out><![CDATA[Given launch the application................................................passed
+When user enters the "chittu" in the username field.........................passed
+And user enters the "vishnu" in the password field..........................passed
+Then user click on the login button.........................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="login functionality check" name="user login to application 2" time="0.532">
+        <system-out><![CDATA[Given launch the application................................................passed
+When user enters the "raj" in the username field............................passed
+And user enters the "aditya" in the password field..........................passed
+Then user click on the login button.........................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
